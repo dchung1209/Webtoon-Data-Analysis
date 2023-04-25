@@ -20,6 +20,10 @@ The analysis of the webtoon data was conducted using Python and various data ana
 
 The results of the analysis are presented in a Jupyter Notebook, which includes code, visualizations, and written explanations
 
+## Data Visualization
+
+The visualization of the data was done by tableau and supported the analysis
+
 ## Conclusion
 
 This webtoon data analysis project provides insights into the popularity and trends of webtoons, which can be useful for both fans and creators. The analysis reveals the most popular genres and authors, as well as the factors that contribute to high ratings. Overall, the project demonstrates the power of data analysis in understanding and appreciating the world of webtoons.
