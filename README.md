@@ -16,7 +16,7 @@ The analysis of the webtoon data was conducted using Python and various data ana
 
 3. Genre analysis: The popularity of each genre was explored, including the number of webtoons and episodes for each genre, as well as the average rating.
 
-4. Episode analysis: The distribution of ratings for episodes was explored, and the relationship between episode length and rating was examined.
+4. Episode analysis(ongoing): The distribution of ratings for episodes was explored, and the relationship between episode length and rating was examined.
 
 The results of the analysis are presented in a Jupyter Notebook, which includes code, visualizations, and written explanations
 
@@ -26,4 +26,4 @@ The visualization of the data was done by tableau and supported the analysis
 
 ## Conclusion
 
-This webtoon data analysis project provides insights into the popularity and trends of webtoons, which can be useful for both fans and creators. The analysis reveals the most popular genres and authors, as well as the factors that contribute to high ratings. Overall, the project demonstrates the power of data analysis in understanding and appreciating the world of webtoons.
+On-Going
