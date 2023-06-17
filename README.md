@@ -24,6 +24,8 @@ The results of the analysis are presented in a Jupyter Notebook, which includes 
 
 The visualization of the data was done by tableau and supported the analysis
 
+![Data Visualization/Popular.png](https://github.com/dchung1209/Webtoon-Data-Analysis/blob/main/Data%20Visualization/Popular.png?raw=true)
+
 ## Conclusion
 
 On-Going
