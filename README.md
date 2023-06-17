@@ -29,4 +29,4 @@ The visualization of the data was done by tableau and supported the analysis
 
 ## Conclusion
 
-On-Going
+Romance and Slice of Life stand out as the most sought-after genres, both in terms of average likes and cumulative popularity. The two most popular genres on the platform are Romance and Slife of Life as well.
