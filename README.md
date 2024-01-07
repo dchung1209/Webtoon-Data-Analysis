@@ -23,6 +23,7 @@ Some examples of hashtags are:
 Cursed Princess Club
 
 <h1 style="color:blue;text-align:center;">#CursedPrincessClub #TwistedWorld  #UnconventionalPrincess</h1>
+<font size=4, color='red'><b>#CursedPrincessClub #TwistedWorld  #UnconventionalPrincess</b></font>
 
 
 
