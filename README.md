@@ -1,6 +1,6 @@
-# Webtoon Data
+# Webtoon Data Analysis
 
-This repository contains a data analysis project focused on webtoons, which are online comics that originated in South Korea and have become increasingly popular worldwide. The aim of this project is to explore various aspects of webtoons, such as genre popularity, viewer ratings, and author trends.
+This repository contains a data analysis project focused on webtoons, which are online comics that originated in South Korea and have become popular worldwide.
 
 ## Data
 
