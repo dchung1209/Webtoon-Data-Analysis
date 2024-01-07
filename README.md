@@ -15,12 +15,6 @@ The data used in this project was collected from the popular webtoon platform. d
 
 The results of the analysis are presented in a Jupyter Notebook, which includes code, visualizations, and written explanations
 
-## Data Visualization
-
-The visualization of the data was done by tableau
-
-![Data Visualization/General.png](https://github.com/dchung1209/Webtoon-Data-Analysis/blob/main/Data%20Visualization/General.png?raw=true)
-
 
 ## Generate Hashtags
 
@@ -28,7 +22,7 @@ Some examples of hashtags are:
 
 Cursed Princess Club
 
-#CursedPrincessClub #TwistedWorld #UnconventionalPrincess
+###### #CursedPrincessClub #TwistedWorld  #UnconventionalPrincess
 
 
 
