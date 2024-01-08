@@ -1,7 +1,6 @@
 
 import re
 from query_utils import Queries
-from chatGPT import guess_genre
 
 class Cleaner():
   def __init__(self, df):
