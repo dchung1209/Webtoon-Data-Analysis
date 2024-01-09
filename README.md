@@ -1,3 +1,5 @@
+[Colab](https://colab.research.google.com/drive/1ZuQJDWVcL_nS3PtsTzmcZniLKjllrzXH?usp=sharing)
+
 # Webtoon Data Analysis
 
 This repository contains a data analysis project focused on webtoons, which are online comics that originated in South Korea and have become popular worldwide.
