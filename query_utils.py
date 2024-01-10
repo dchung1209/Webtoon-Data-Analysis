@@ -40,7 +40,7 @@ class Queries():
   def urls_query(self):
     urls = [p['href'] for p in self.raw.find_all('a', {'class': 'daily_card_item'})]
     return urls
-
+  
   def description_query(self, url):
     r = requests.get(url)
     raw = BeautifulSoup(r.content, 'html.parser')
@@ -48,7 +48,7 @@ class Queries():
     return description
 
   def dict_query(self):
-    dict = {'Title': self.title_query(), 'Author': self.author_query(), 'Genre': self.genre_query(), 'Like': self.likes_query(), 'Url' : self.urls_query()}
+    dict = {'Title': self.title_query(), 'Author': self.author_query(), 'Genre': self.genre_query(), 'Like': self.likes_query(), 'URL' : self.urls_query()}
     return dict
 
   def df_query(self):
