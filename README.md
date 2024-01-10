@@ -15,7 +15,7 @@ The model that is used to generate hashtags is GPT-3.5-turbo. Some examples incl
 | My Irresistible Ex                                        | The Tide                                                     | HapiBuni                                                     | Long After the Ending                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/5b1687f2-64e8-4683-80e2-abff14e2e048)| ![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/c9a63b47-f8f8-435d-918e-e88d94b250d0)| ![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/0423289b-6739-4859-920a-675e2616a3bb)| ![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/dab58180-d4ae-4aec-8e4d-f6e1299e2f57)|
-| #IrresistibleExLove #FameVersusAffection #TemptationOfTheEx               | #TheTideRising #SurvivalOfTheFittest #WaterWars              | #HapiBuni #OptimisticBunny #DarkComic                        | #BeyondTheStory #LoveInDisguise #BusinessofRomance           |
+| #IrresistibleExLove #FameVersusAffection #TemptationOfTheEx               | #TheTideRising #SurvivalOfTheFittest #WaterWars              | #DarkComic #OptimisticBunny #CuteCharacter                        | #BeyondTheStory #LoveInDisguise #BusinessofRomance           |
 
 
 ## Visualization
