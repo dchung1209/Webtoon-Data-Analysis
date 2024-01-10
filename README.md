@@ -24,8 +24,19 @@ Some examples of hashtags are:
 
 Cursed Princess Club
 
-#CursedPrincessClub #TwistedWorld  #UnconventionalPrincess
+#Comedy #TwistedWorld  #UnconventionalPrincess
 
+The Tide
+
+#TheTideRising #WaterWars #SurvivalOfTheFittest
+
+HapiBuni
+
+#HapiBuni #DarkComic #OptimisticBunny
+
+Long After the Ending
+
+#BeyondTheStory #LoveInDisguise #BusinessofRomance
 
 
 ## Conclusion
