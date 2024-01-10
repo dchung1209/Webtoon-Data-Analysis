@@ -24,7 +24,7 @@ Some examples of hashtags are:
 
 | Cursed Princess Club                           | The Tide                                        | HapiBuni                              | Long After the Ending                              |
 | ---------------------------------------------- | ----------------------------------------------- | ------------------------------------- | -------------------------------------------------- |
-| #TwistedWorld  #UnconventionalPrincess #Comedy | #TheTideRising #WaterWars #SurvivalOfTheFittest | #HapiBuni #DarkComic #OptimisticBunny | #BeyondTheStory #LoveInDisguise #BusinessofRomance |
+| #TwistedWorld  #UnconventionalPrincess #Comedy | #TheTideRising #SurvivalOfTheFittest #WaterWars | #HapiBuni #OptimisticBunny #DarkComic  | #BeyondTheStory #LoveInDisguise #BusinessofRomance |
 
 ![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/71bbb042-0bb1-435e-aa4b-b2f4f3f50a0c)
 
