@@ -1,35 +1,39 @@
-
-import re
+import openai
+from clean_utils import Cleaner
 from query_utils import Queries
-
-class Cleaner():
-  def __init__(self, df):
-      self.df = df
-    
-  def convert(self, s):
-    if "M" in s:
-      return 1000000 * float(re.sub("[^0-9.\-]","", s))
-    elif "," in s:
-      return float(re.sub("[^0-9.\-]","", s))
-  
-  def clean(self):
-     self.df = self.df.drop_duplicates()
-     if isinstance(self.df['Like'][0], str):
-        self.df['Like'] = self.df['Like'].apply(lambda x: self.convert(x))
-  
-  def get_df(self):
-     self.clean()
-     return self.df
-    
+from chatGPT import HashtagGenerator
 
 if __name__ == "__main__":
+    df = Queries().df_query()
+    df = Cleaner(df).get_df()
     print("Create a webtoon CSV file? [y/n]")
     answer = str(input())
 
     if (answer == "y"):
-        df = Queries().df_query()
-        df = Cleaner(df).get_df()
-    
         print("Successfully created a CSV file")
         Queries().csv_query(df)
+
+    print("Create hashtags? [y/n]")
+    answer = str(input())
+    guess = False
+
+    if (answer == "y"):
+       print("Enter the API key")
+       openai.api_key = str(input())
+       guess = True
+  
+    while (guess):
+      random_target = df.sample(n = 1)
+      print("Webtoon Info : ")
+      print(random_target)
+      description = Queries().description_query(random_target['URL'].iloc[0])
+      print(f"Webtoon Title : {random_target['Title'].iloc[0]}")
+      output = HashtagGenerator(random_target, description).guess_genre()
+      print(f"Three Unique Hashtags : ")
+      print(output)
+
+      print("Stop? [y/n]")
+      stop = str(input())
+      if (stop == "y"):
+         guess = False
 
