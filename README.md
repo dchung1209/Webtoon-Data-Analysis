@@ -23,19 +23,19 @@ The results of the analysis are presented in a Jupyter Notebook, which includes 
 Some examples of hashtags are:
 
 Cursed Princess Club
-
+![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/71bbb042-0bb1-435e-aa4b-b2f4f3f50a0c)
 #Comedy #TwistedWorld  #UnconventionalPrincess
 
 The Tide
-
+![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/71f8d711-3939-450e-90cd-12afed807547)
 #TheTideRising #WaterWars #SurvivalOfTheFittest
 
 HapiBuni
-
+![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/8ca02130-5a9c-4a1f-b884-bb95bcebeb90)
 #HapiBuni #DarkComic #OptimisticBunny
 
 Long After the Ending
-
+![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/c5089ea4-d873-4e81-acc8-c739947f733d)
 #BeyondTheStory #LoveInDisguise #BusinessofRomance
 
 
