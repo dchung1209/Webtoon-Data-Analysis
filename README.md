@@ -8,19 +8,9 @@ This repository contains a data analysis project focused on webtoons, which are 
 
 The data used in this project was collected from the popular webtoon platform. dataset was obtained using the Beautiful Soap and was saved as a CSV file for further analysis.
 
-## Analysis
+## Hashtags
 
-
-1. Data cleaning: The dataset was cleaned and preprocessed to remove any missing or inconsistent values.
-
-2. Descriptive statistics: Basic statistics were calculated for the dataset, such as the number of webtoons and episodes, average rating, and most popular genres.
-
-The results of the analysis are presented in a Jupyter Notebook, which includes code, visualizations, and written explanations
-
-
-## Generate Hashtags
-
-Some examples of hashtags are:
+The used model is gpt-3.5-turbo. Some examples include:
 
 | My Irresistible Ex                                        | The Tide                                                     | HapiBuni                                                     | Long After the Ending                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -28,6 +18,6 @@ Some examples of hashtags are:
 | #IrresistibleExLove #FameVersusAffection #TemptationOfTheEx               | #TheTideRising #SurvivalOfTheFittest #WaterWars              | #HapiBuni #OptimisticBunny #DarkComic                        | #BeyondTheStory #LoveInDisguise #BusinessofRomance           |
 
 
-## Conclusion
+## Visualization
 
 Romance and Slice of Life stand out as the most sought-after genres, both in terms of average likes and cumulative popularity. The two most popular genres on the platform are Romance and Slife of Life as well.
