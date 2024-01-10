@@ -10,7 +10,7 @@ The data used in this project was collected from the popular webtoon platform. d
 
 ## Hashtags
 
-The used model is gpt-3.5-turbo. Some examples include:
+The model that is used to generate hashtags is GPT-3.5-turbo. Some examples include:
 
 | My Irresistible Ex                                        | The Tide                                                     | HapiBuni                                                     | Long After the Ending                                        |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -21,7 +21,7 @@ The used model is gpt-3.5-turbo. Some examples include:
 ## Visualization
 ![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/59b9cbb2-08f5-41cc-8df9-9674f1e743fb)
 
-The top popular webtoons by genre are presented above.
+The most popular webtoons are presented by genre, above
 
 ![image](https://github.com/dchung1209/Webtoon-Data-Analysis/assets/121478848/a1699690-bc82-4809-a0b2-dd35ddf2f6e2)
 Romance and Slice of Life stand out as the most sought-after genres, both in terms of average likes and cumulative popularity. The two most popular genres on the platform are Romance and Slife of Life as well.
